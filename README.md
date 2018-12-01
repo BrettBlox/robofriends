@@ -1,5 +1,7 @@
 # Robofriends
 
+This fun little app was my first React app that also uses Redux. It reaches out to two API's, one for grabbing the robot pictures (https://robohash.org) and the second (https://jsonplaceholder.typicode.com/users) was used for grabbing the random names and email addresses. This was also my first time using the Tachyons CSS framework which I really enjoyed. All of the cards should be displayed when the page loads and the search bar allows you to filter the cards by name. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
